@@ -17,7 +17,7 @@
     background-image: linear-gradient(rgba(26, 40, 83, 0.8),rgba(22, 25, 238, 0.8));
     display: grid;
     grid-template-rows: 12% 76% 12%;
-    grid-template-columns: 25% 50% 25%;
+    grid-template-columns: 17% 66% 17%;
     grid-template-areas: ". . ."
                          ". todo ."
                          ". . .";
